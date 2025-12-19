@@ -18,7 +18,7 @@
 		<maven.compiler.release>17</maven.compiler.release>
 		<jakartaee-api.version>8.0.0</jakartaee-api.version>
 		<wildfly.version>26.1.3.Final</wildfly.version>
-		<compiler-plugin.version>3.13.0</compiler-plugin.version>
+		<compiler-plugin.version>3.8.1</compiler-plugin.version>
 		<war-plugin.version>3.4.0</war-plugin.version>
 		<wildfly-plugin.version>5.0.1.Final</wildfly-plugin.version>
 	</properties>
